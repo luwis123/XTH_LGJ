@@ -1,0 +1,9 @@
+.\ys-f4pro\guiconf.o: ..\STemWin\config\GUIConf.c
+.\ys-f4pro\guiconf.o: ..\STemWin\inc\GUI.h
+.\ys-f4pro\guiconf.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\ys-f4pro\guiconf.o: ..\STemWin\inc\GUI_ConfDefaults.h
+.\ys-f4pro\guiconf.o: ..\STemWin\config\GUIConf.h
+.\ys-f4pro\guiconf.o: ..\STemWin\inc\GUI_Type.h
+.\ys-f4pro\guiconf.o: ..\STemWin\inc\LCD.h
+.\ys-f4pro\guiconf.o: ..\STemWin\inc\Global.h
+.\ys-f4pro\guiconf.o: ..\STemWin\inc\GUI_Version.h

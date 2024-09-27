@@ -1,0 +1,10 @@
+.\ys-f4pro\example_image.o: ..\STemWin_Task\example_image.c
+.\ys-f4pro\example_image.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\ys-f4pro\example_image.o: ..\STemWin\inc\GUI.h
+.\ys-f4pro\example_image.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\ys-f4pro\example_image.o: ..\STemWin\inc\GUI_ConfDefaults.h
+.\ys-f4pro\example_image.o: ..\STemWin\config\GUIConf.h
+.\ys-f4pro\example_image.o: ..\STemWin\inc\GUI_Type.h
+.\ys-f4pro\example_image.o: ..\STemWin\inc\LCD.h
+.\ys-f4pro\example_image.o: ..\STemWin\inc\Global.h
+.\ys-f4pro\example_image.o: ..\STemWin\inc\GUI_Version.h
