@@ -1,9 +1,9 @@
-﻿const char Framewin_text[] = {"智慧型车道管理机"};
+const char Framewin_text[] = {"智慧型车道管理机"};
 const char XianGao_MODE[] = {"限高\r\n模式"};
 const char GuanBi_MODE[] = {"禁行\r\n模式"};
 const char Set_MODE[] = {"参数\r\n设置"};
 const char More_MODE[] = {"更多\r\n……"};
-const char text[] = {"安徽西太华信息科技有限公司"};
+const char text[] = {"安徽西太华信息科技有限公司liuliuliu"};
 const char MULTIEDIT_text[] = {"当前状态：限高模式"};
 const char *BUTTON_text[] = {"确定","取消"};
 const char MoreInformation_text[] = {"更多产品信息\r\n及资料获取……"};
